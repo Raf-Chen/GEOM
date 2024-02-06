@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Our code is built upon [SFGC](https://github.com/Amanda-Zheng/SFGC) and [CLNode](https://github.com/wxwmd/CLNode).
 
 ## Citation
-Welcome to discuss with me, you can contact me at [yuchenzhang@std.uestc.edu.cn](mailto:yuchenzhang@std.uestc.edu.cn). If you find this repo to be useful, please cite our paper. 
+Welcome to discuss with [yuchenzhang@std.uestc.edu.cn](mailto:yuchenzhang@std.uestc.edu.cn). If you find this repo to be useful, please cite our paper. 
 
 ```bibtex
 @inproceedings{
